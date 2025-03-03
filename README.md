@@ -1,6 +1,5 @@
 # 👋 Hola, soy Angelo
 
-🌐 Explorando el mundo de la programación.  
 🚀 Aprendiendo a mi ritmo.  
 🎯 Sin prisa, pero siempre avanzando.  
 
