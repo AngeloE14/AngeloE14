@@ -1,4 +1,4 @@
+Opción 1
 📂 Repositorios
-
-Solo subo proyectos cuando sirven para algo: práctica, estructura o pruebas.
-Si están aquí, es porque cumplen su función.
+Solo subo proyectos cuando sirven: 🧩 práctica · 🧱 estructura · 🧪 pruebas.
+✅ Si están aquí, es porque aportan y cumplen su función.
