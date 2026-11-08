@@ -2,6 +2,10 @@
 
 ###
 
+<img data-importer="image" align="left" height="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnCwX_8Hsitmam4Hwp4_e3nuwc8dbgIls0ENTkFAzag&s=10"  />
+
+###
+
 <p data-importer="text" align="left">Aprendiendo, experimentando a mi propio ritmo🌱</p>
 
 ###
